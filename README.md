@@ -40,7 +40,7 @@ Actualmente desarrollo proyectos prácticos utilizando **AWS, Ansible, Docker, T
 
 ### Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=aws,ansible" />
 
 ### Containers & DevOps
 
