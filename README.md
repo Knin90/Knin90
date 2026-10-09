@@ -52,7 +52,7 @@ Actualmente desarrollo proyectos prácticos utilizando **AWS, Ansible, Docker, T
 
 ### Programming & Automation
 
-<img src="https://skillicons.dev/icons?i=python,bash,typescript" />
+<img src="https://skillicons.dev/icons?i=python,bash, Java" />
 
 </div>
 
